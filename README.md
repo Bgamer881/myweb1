@@ -3,7 +3,7 @@
   <title>to Gamers.LK</title>
 <header/>
 <body>
-  <h1>Click here to access Gamers.LK<h1/>
+  <h1><a href="homepage.html">Click here to access Gamers.LK<a/><h1/>
 <body/>
 
 </html>
