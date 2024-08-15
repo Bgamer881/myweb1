@@ -1,0 +1,71 @@
+input{
+	color:white;
+	background:transparent;	
+	border:none;
+	
+}
+
+.lp1{	
+font-size:80%;
+font-family: Arial, Helvetica, sans-serif;
+color:white;	
+}
+
+.lh1{
+	font-family: Arial, Helvetica, sans-serif;
+	left:600px;
+
+}
+
+.limg{
+	z-index:3;
+}
+
+.loginbox{
+
+color:white;
+opacity:0.9;
+background-color:black;
+width:320px;
+height:420px;
+position:relative;
+padding-top:50px;
+padding-left:50px;
+padding-right:30px;
+top:170px;
+left:500px;
+z-index:1;
+}
+
+.btn:hover{
+background-color:yellow;	
+color:black;	
+}
+
+.btn
+{
+background-color:red;
+height:45px;
+width:300px;
+border:solid black ;
+border-radius:40px;
+padding-right:10px;
+}
+
+img{
+width:105px;
+height:105px;
+position:absolute;	
+top:145px;
+left:650px;	
+z-index:2;
+}
+
+    body {
+        background-image: url("codb1.jpg");
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-attachment: fixed; 
+    }
+	
+
